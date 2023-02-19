@@ -12,17 +12,28 @@ Using TMDB Data Set
 Saved Models:  "SVDppModel.pickle" and "modelSVDppLoo_1M.pickle".
 
 The [MovieLens] data set
+
 ![image](https://user-images.githubusercontent.com/47840840/219969777-9ff692cb-7de3-4467-9b67-492dacf2f5a9.png)
+
 ![image](https://user-images.githubusercontent.com/47840840/219969804-d9e74f7d-5e3c-49c8-8260-febb76b15475.png)
-Data Preparation
+
+# Data Preparation
+
 1.	Merging TMDB Data Sets
+
 ![image](https://user-images.githubusercontent.com/47840840/219969825-4bab1d37-efa9-4089-8407-52ad43b1e67a.png)
+
 2.	Cleaning TMDB Data Set 
+
 ![image](https://user-images.githubusercontent.com/47840840/219969833-2e1ecd74-d2b1-492f-bf96-19dfbb536fef.png)
+
 ![image](https://user-images.githubusercontent.com/47840840/219969834-5389c97d-557c-4284-9462-d3e772e59c37.png)
-3.	Check null values in rating data and scaling it 
+
+3.Check null values in rating data and scaling it 
 ![image](https://user-images.githubusercontent.com/47840840/219969843-9e2d5751-ceed-4966-a012-27987270623b.png)
+
 ![image](https://user-images.githubusercontent.com/47840840/219969849-69347d72-aea2-4a1d-8657-be44e375f767.png)
+
 ![image](https://user-images.githubusercontent.com/47840840/219969850-1efa1b7f-f5f1-48a0-8099-a8eb5723f7c3.png)
 
 # Methods:
