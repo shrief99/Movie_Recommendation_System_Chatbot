@@ -1,5 +1,5 @@
 
-## Movie Recommendation System 
+## Movie Recommendation System Chatbot
 
 # Problem formulation
 In this project, we will be building our recommender system, similar to the one used by Netflix. Some of the business questions which we will seek to answer include the following:
